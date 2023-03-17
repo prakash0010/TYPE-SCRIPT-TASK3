@@ -1,0 +1,20 @@
+[
+    {
+        "ProductId":"ID1",
+        "ProductName":"LAPTOP",
+        "Price":69000,
+        "Quantity":5
+    },
+    {
+        "ProductId":"ID2",
+        "ProductName":"DESKTOP",
+        "Price":99000,
+        "Quantity":10
+    },
+    {
+        "ProductId":"ID3",
+        "ProductName":"MOBILE",
+        "Price":19000,
+        "Quantity":8
+    }
+]
